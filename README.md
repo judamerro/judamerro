@@ -34,7 +34,7 @@ Disfruto optimizando cada detalle visual y funcional para entregar productos de 
 ## 🧰 Tecnologías y Herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,redux,graphql,html,css,firebase,git" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,redux,html,css,git" />
 </p>
 
 ---
