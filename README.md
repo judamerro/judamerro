@@ -71,7 +71,7 @@ Disfruto optimizando cada detalle visual y funcional para entregar productos de 
 
 - 📧 Email: [judamerro@gmail.com](mailto:judamerro@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/judamerro](https://www.linkedin.com/in/judamerro/)  
-- 🌐 Portafolio: *¡pronto disponible!*
+
 
 ---
 
